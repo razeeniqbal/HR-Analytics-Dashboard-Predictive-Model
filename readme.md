@@ -33,17 +33,6 @@ The project uses the IBM HR Analytics Employee Attrition dataset, which contains
 - **Model Evaluation**: Comprehensive metrics and comparisons
 - **Dashboard**: Interactive Streamlit application for visualization and predictions
 
-## Setup and Usage
-
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Download the IBM HR Attrition dataset from Kaggle and save as `data/hr_data.csv`
-4. Run the pipeline:
-python src/eda.py
-python src/data_preprocessing.py
-python src/model_training.py
-5. Launch the dashboard: `streamlit run src/dashboard.py`
-
 ## Skills Demonstrated
 
 - Data preprocessing and feature engineering
