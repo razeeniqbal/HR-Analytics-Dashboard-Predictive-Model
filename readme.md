@@ -1,7 +1,5 @@
 # HR Analytics: Talent Retention & Engagement Predictor
 
-A data science project to predict employee attrition, analyze HR trends, and provide actionable insights for talent retention.
-
 ## Project Overview
 
 This HR Analytics project uses machine learning to help organizations:
