@@ -33,20 +33,6 @@ The project uses the IBM HR Analytics Employee Attrition dataset, which contains
 - **Model Evaluation**: Comprehensive metrics and comparisons
 - **Dashboard**: Interactive Streamlit application for visualization and predictions
 
-## Project Structure
-hr_analytics_project/
-├── data/                  # Dataset storage
-├── src/                   # Source code
-│   ├── eda.py             # Exploratory data analysis
-│   ├── data_preprocessing.py  # Data preprocessing and feature engineering
-│   ├── model_training.py  # ML model training and evaluation
-│   └── dashboard.py       # Streamlit dashboard
-├── models/                # Saved models and preprocessing objects
-├── output/                # Generated visualizations and results
-│   ├── eda/
-│   └── models/
-└── requirements.txt       # Project dependencies
-Copy
 ## Setup and Usage
 
 1. Clone the repository
