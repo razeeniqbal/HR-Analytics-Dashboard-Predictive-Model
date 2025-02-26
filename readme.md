@@ -1,4 +1,4 @@
-Copy# HR Analytics: Talent Retention & Engagement Predictor
+# HR Analytics: Talent Retention & Engagement Predictor
 
 A data science project to predict employee attrition, analyze HR trends, and provide actionable insights for talent retention.
 
@@ -56,7 +56,7 @@ Copy
 python src/eda.py
 python src/data_preprocessing.py
 python src/model_training.py
-Copy5. Launch the dashboard: `streamlit run src/dashboard.py`
+5. Launch the dashboard: `streamlit run src/dashboard.py`
 
 ## Skills Demonstrated
 
