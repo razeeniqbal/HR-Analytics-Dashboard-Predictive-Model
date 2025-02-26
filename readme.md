@@ -10,6 +10,7 @@ This HR Analytics project uses machine learning to help organizations:
 
 ## Dataset
 
+Link Dataset (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 The project uses the IBM HR Analytics Employee Attrition dataset, which contains:
 - Employee demographic information
 - Job-related features
@@ -38,6 +39,13 @@ The project uses the IBM HR Analytics Employee Attrition dataset, which contains
 - Data visualization and dashboard creation
 - HR analytics domain knowledge
 - Python programming (pandas, scikit-learn, streamlit, etc.)
+
+## Key Discoveries
+
+- Overtime significantly increases quit rates 
+- Work-life balance matters more than salary for many employees
+- Career growth opportunities reduce turnover 
+- Different departments have unique retention challenges 
 
 ## Future Improvements
 
